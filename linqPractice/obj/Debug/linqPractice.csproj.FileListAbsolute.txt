@@ -1,0 +1,7 @@
+C:\Users\Kinza Syed\source\repos\linqPractice\linqPractice\bin\Debug\linqPractice.exe.config
+C:\Users\Kinza Syed\source\repos\linqPractice\linqPractice\bin\Debug\linqPractice.exe
+C:\Users\Kinza Syed\source\repos\linqPractice\linqPractice\bin\Debug\linqPractice.pdb
+C:\Users\Kinza Syed\source\repos\linqPractice\linqPractice\obj\Debug\linqPractice.csprojAssemblyReference.cache
+C:\Users\Kinza Syed\source\repos\linqPractice\linqPractice\obj\Debug\linqPractice.csproj.CoreCompileInputs.cache
+C:\Users\Kinza Syed\source\repos\linqPractice\linqPractice\obj\Debug\linqPractice.exe
+C:\Users\Kinza Syed\source\repos\linqPractice\linqPractice\obj\Debug\linqPractice.pdb
